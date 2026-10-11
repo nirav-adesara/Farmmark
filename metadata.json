@@ -1,0 +1,6 @@
+{
+  "name": "Farmstead Direct",
+  "description": "Pure unadulterated Cow & Buffalo Milk, Desi Ghee & Farm Eggs delivered daily by 7:00 AM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
